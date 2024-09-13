@@ -12,7 +12,7 @@ Currently interested in learning about AI.
 
 
 * 🌍  I'm based in Medan, Indonesia
-* ✉️  You can contact me at [elizasanta@gmail.com](mailto:elizasanta@gmail.com)
+* ✉️  You can contact me at [elizasanta147@gmail.com](mailto:elizasanta147@gmail.com)
 * 🧠  I'm learning Advanced AI at Infinite Learning
 
 ### Skills
