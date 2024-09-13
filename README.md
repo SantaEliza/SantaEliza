@@ -1,5 +1,6 @@
 
-![](https://santaelizas.my.canva.site/)
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 ## Hello there 👋
 
