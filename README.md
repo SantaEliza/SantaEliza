@@ -1,14 +1,15 @@
-
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
-## Hello there 👋
+![](https://pbs.twimg.com/media/GXXg486XwAAzCqE?format=jpg&name=900x900)
 
 My name is Santa from Indonesia. I am a student at Mikroskil University. 
 Currently I am taking an independent study program at infinite learning.
 
 I really enjoy learning something new so I can improve my skill.
 Currently interested in learning about AI.
+
+
+
+
+
 
 
 
