@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-#About me
+# About me
 
-My name is Santa from Indonesia. I am a student at Mikroskil University. 
-Currently I am taking an independent study program at infinite learning.
-
+I am a student at Mikroskil University. 
 I really enjoy learning something new so I can improve my skill.
 Currently interested in learning about AI.
 
@@ -34,14 +32,6 @@ Currently interested in learning about AI.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SantaEliza"><img src="https://github-readme-stats.vercel.app/api?username=SantaEliza&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SantaEliza's GitHub stats" /></a>
-
-
-
-
-
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SantaEliza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/santaelizas/)  
 
